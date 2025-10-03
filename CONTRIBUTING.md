@@ -10,7 +10,7 @@ Vielen Dank für Ihr Interesse, zu den Versionsverwaltungs-Tools beizutragen! Hi
    ```
 3. Nehmen Sie Ihre Änderungen vor und committen Sie diese:
    ```bash
-   git commit -m "Fügen Sie eine neue Funktion hinzu"
+   git commit -m "Fügen Sie eine neue Funktion hinzu"  # Beschreibung der Funktion
    ```
 4. Pushen Sie Ihren Branch:
    ```bash
